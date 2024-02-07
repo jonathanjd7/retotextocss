@@ -3,6 +3,9 @@ header {
     background-color: brown;
     padding:20px 0px;
 }
+body {
+    margin: 0;
+}
 h1 {
     font-family: 'Helvetica Neue';
     color: white;
