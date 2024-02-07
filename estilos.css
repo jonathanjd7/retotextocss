@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+    background-color: brown;
+    padding:20px 0px;
+}
+h1 {
+    font-family: 'Helvetica Neue';
+    color: white;
+    text-wrap: pretty;
+    text-transform: capitalize;
+}
+div.contenido {
+    padding: 20px;
+    background-color: aliceblue;
+    box-shadow: 0 0 10px black;
+}
+
+h2 {text-transform: capitalize;
+    text-align: justify;
+    font-style: oblique;
+}
+p {
+    text-wrap: pretty;
+    text-align: justify;
+}
+a{
+    color:red ;
+}
+footer {
+    background-color: black;
+    color: white;
+    font-style: oblique;
+    text-align: center;
+    padding: 7px 100px;
+}
